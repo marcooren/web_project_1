@@ -72,6 +72,7 @@
 }
 .header__link {
   text-decoration: none;
+  color:#2F80ED;
 }
 .two-columns {
   display: flex;

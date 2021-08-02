@@ -1,3 +1,3 @@
 Project name: project 2
 Project description: web page
-Plans for finalizing the project:Not in BEM file structure yet
+A description of technologies and techniques used: BEM , flex
